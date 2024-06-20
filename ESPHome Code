@@ -1,0 +1,26 @@
+switch:
+  - platform: gpio
+    id: fwd
+    name: Motor Forward
+    pin: 9
+
+  - platform: gpio
+    id: rvs
+    name: Motor Reverse
+    pin: 10
+
+button:
+  - platform: template
+    id: btn_spray
+    name: "Spray"
+    on_press:
+      - switch.turn_on: fwd
+      - delay: 300ms
+      - switch.turn_on: rvs
+      - delay: 500ms
+      - switch.turn_off: fwd
+      - delay: 300ms
+      - switch.turn_on: fwd
+      - delay: 500ms
+      - switch.turn_off: fwd
+      - switch.turn_off: rvs  
