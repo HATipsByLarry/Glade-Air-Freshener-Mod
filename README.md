@@ -15,4 +15,5 @@ Here is the link for the ESPHome code for this project https://github.com/HATips
 Here is the link for the Youtube Video: https://youtu.be/fx1ibQq3BN4
 
 Found This Useful and want to say thanks ___ ☕ Buy Me A Coffee! ☕ __
+
 https://www.buymeacoffee.com/hatipsbylarry
