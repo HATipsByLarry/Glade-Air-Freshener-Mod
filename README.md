@@ -10,6 +10,8 @@ Here is the link to the Parts List https://www.canva.com/design/DAGIthVOumY/xjJ5
 
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖
 
+Here is the link for the Wiring Diagram: https://github.com/HATipsByLarry/Glade-Air-Freshener-Mod/blob/main/Glade%20Air%20Freshener%20Wiring%20Diagram.jpg
+
 Here is the link for the ESPHome code for this project https://github.com/HATipsByLarry/Glade-Air-Freshener-Mod/blob/main/ESPHome%20Code
 
 Here is the link for the Youtube Video: https://youtu.be/fx1ibQq3BN4
