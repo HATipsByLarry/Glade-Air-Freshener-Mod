@@ -2,12 +2,12 @@ switch:
   - platform: gpio
     id: fwd
     name: Motor Forward
-    pin: 9
+    pin: 10
 
   - platform: gpio
     id: rvs
     name: Motor Reverse
-    pin: 10
+    pin: 9
 
 button:
   - platform: template
